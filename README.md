@@ -12,7 +12,7 @@ During my time at the Tata Centre of Excellence for Aeroengines, I focused on br
 In aerospace manufacturing, maintaining microscopic tolerance levels is critical for safety and aerodynamic efficiency. The engineering team required a streamlined, automated method to process complex component measurement data to quickly identify the quality standards required for production as specified by their clients, General Electric Aerospace and Safran Aircraft Engines (Pratt & Whitney).
 
 ## Systems Architecture & Methodology
-* **Core Toolkit:** Python, Advanced Data Analytics Libraries, Parametric Tracking Workflows
+* **Core Toolkit:** Python, Advanced Data Analytics Libraries (Pandas, Openpyxl, NetworkX, Tesseract, Poppler), Parametric Tracking Workflows
 * **System Process Flow:**
     1. **Data Ingestion:** Extract raw specification data from proprietary spec sheets provided by the client.
     2. **Processing Pipeline:** Design a system which reads the extracted data and utilizing PageRank algorithm to analyze relationships and critical dependencies between specifications.
