@@ -1,6 +1,6 @@
 # Automation Project - Tata Advanced Systems Limited
 High level overview of my systems engineering project as a Manufacturing Engineering intern at Tata Advanced Systems Limited, Tata Centre of Excellence for Aeroengines
-# Automation & Systems Optimization — Tata Centre of Excellence for Aeroengines
+# Automation & Systems Optimization @ Tata Centre of Excellence for Aeroengines
 **Role:** Manufacturing Engineering Intern (Tata Advanced Systems Limited)
 
 **Confidentiality Notice:** Due to strict rules and regulations with respect to EAR and ITAR, all proprietary source code, internal dataset metrics, and specific engineering schematics have been entirely omitted or obfuscated. This repository serves strictly as a conceptual and architectural overview of my systems engineering contributions.
